@@ -2,7 +2,7 @@
 
 ### COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS With Pm Feature and settings Working One
 
-<p align="center"><a href="https://t.me/dreambigmoviesdiscussion"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/dreambigmoviesdiscussion"><img src="[https://telegra.ph/file/b417bdd01331179d5787c.jpg](https://telegra.ph/file/a9147b0692c86b83ab469.jpg)" width="500"></a></p>
 
 # Introduction
 
