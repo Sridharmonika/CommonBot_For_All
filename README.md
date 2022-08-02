@@ -1,19 +1,15 @@
-# <h2 align="centre"><i><b>💖TECHNO MINDZ BOT-1💝</i></b></h2>
+# <h2 align="centre"><i><b>💖MCU BOT💝</i></b></h2>
 
 ### COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS With Pm Feature and settings Working One
 
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/dreambigmoviesdiscussion"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
 
 # Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+Sudharshan!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
 </p>
 </h1>
 
-<a href="https://www.youtube.com/c/TechnoMindz">
-  <img src="https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube" width="170">
-<a href="https://youtu.be/CWObOvzp09g">
-  <img src="https://img.shields.io/badge/MongoDB-red?logo=youtube" width="150">
 
 
 # DEPLOY
@@ -21,12 +17,12 @@
 ## Refer Image Before Deploying 
 ## ⚠️Fork The Repo And Deploy Or Unwanted Problems May Occur...
 ## After Forking Before Deplying Change The link of your github HERE Below Shown In The Picture 👇👇👇
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/7dfbf86b1da43cc40208f.jpg" width="800"></a></p>
+<p align="center"><a href="https://t.me/dreambigmoviesdiscussion"><img src="https://telegra.ph/file/a9147b0692c86b83ab469.jpg" width="800"></a></p>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+<a href="https://heroku.com/deploy?template=https://github.com/Sridharmonika/CommonBot_For_All">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -85,7 +81,7 @@
 ## CUSTOM FILE CAPTION
 ```
 <code>{file_name}</code>
-MADE BY @TmMainChannel
+MADE BY @MCU_Linkz 
   
 ```
 
@@ -97,10 +93,10 @@ MADE BY @TmMainChannel
   
 ## CREATED BY
  
-* [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
+* [Sudharshan](https://t.me/Sudharshan_T)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Thanks to 
 
- - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
+ - Thanks To [Sudharshan](https://github.com/Sudharshan12467) for Their Awesome [Unlimited Filter Bot](https://github.com/Sudharshan12467/CommonBot_For_All) And [AutoFilterBoT](https://github.com/Sudharshan1246/CommonBot_For_All)
  - Thanks To All Of My Subscribers😊
